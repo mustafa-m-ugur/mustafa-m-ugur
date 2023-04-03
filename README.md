@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
-💬 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+💬 Hi I'm Mustafa, I'm a backend developer. I have been dealing with backend technologies since 2010.
 
 - 🌱 I’m currently learning **React Native**
 
