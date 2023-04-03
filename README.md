@@ -6,7 +6,7 @@
 <a href="https://twitter.com/mustafaugur2747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustafaugur2747" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mustafa-uğur-802a491ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-uğur-802a491ba/" height="30" width="40" /></a>
 <a href="https://medium.com/@mustafa.m.ugur27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mustafa.m.ugur27" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucnca0lfpmggvmgytsf7m6hq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnca0lfpmggvmgytsf7m6hq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNCA0lFpmgGvMGYTSf7m6hQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnca0lfpmggvmgytsf7m6hq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
