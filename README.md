@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-m-ugur&show_icons=true&locale=en&layout=compact" alt="mustafa-m-ugur" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-m-ugur&show_icons=true&locale=en" alt="mustafa-m-ugur" /></p>
+
